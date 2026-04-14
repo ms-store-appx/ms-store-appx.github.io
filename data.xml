@@ -1,0 +1,319 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<store>
+    <app>
+        <name>Important!</name>
+        <category>Developer Note</category>
+        <icon>https://microsoftwarestudios.github.io/winstore/appRes/store/StoreLogo.png</icon>
+        <description>
+            Hello everyone! This is MicrosoftwareStudios on Github, or CSXTransportation, moderator of r-reviveWindows8, on Reddit.
+            I just wanted to remind everyone that I am working on this store and it is nowhere near complete. I will continue to develop it,
+            but I do have a personal life and I cannot devote much time to this project. I am hoping some interesting new changes will come out of this soon. Thanks for your patience and happy reviving!
+            Note - WSRP update released 4-11-26!
+        </description>
+        <features>
+            <feature>App lists!</feature>
+            <feature>Some working interfaces</feature>
+            <feature>Better Live Tiles!</feature>
+            <feature>Coming soon: APPXInstallerSVC</feature>
+            <feature>ReTiled Collab!</feature>
+            <feature>Coming soon: More Apps</feature>
+            <feature>Coming soon: Bugfixes!</feature>
+        </features>
+        <install>https://microsoftwarestudios.github.io/winstore/install/mssolitaire.ps1</install>
+        <publisher>MicrosoftwareStudios-CSXTransportation</publisher>
+    </app>
+    <app>
+        <name>Microsoft Solitaire Collection</name>
+        <category>Games</category>
+        <icon>https://microsoftwarestudios.github.io/winstore/appRes/solitaire/StoreLogo.png</icon>
+        <description>
+            #1 Top Free Game in the Windows Store! Pick up and play 
+            the evolution of this classic card game on Windows 8!
+            Microsoft Solitaire Collection features all of your favorite 
+            game modes: Klondike, FreeCell, Spider, TriPeaks, and 
+            Pyramid. Play Daily Challenges, choose themes and take 
+            your game online with Xbox achievements and 
+            leaderboards. 
+        </description>
+        <features>
+            <feature>Klondike (Classic Solitaire)</feature>
+            <feature>Spider Solitaire</feature>
+            <feature>FreeCell</feature>
+            <feature>Pyramid</feature>
+            <feature>TriPeaks</feature>
+            <feature>Multiple themes</feature>
+            <feature>Daily Challenges!</feature>
+        </features>
+        <install>https://microsoftwarestudios.github.io/winstore/install/mssolitaire.ps1</install>
+        <publisher>Microsoft Studios</publisher>
+    </app>
+    <app>
+        <name>Microsoft Mahjong</name>
+        <category>Games</category>
+        <icon>https://microsoftwarestudios.github.io/winstore/appRes/mahjong/StoreLogo.png</icon>
+        <description>
+            Top 5 Free Game in the Windows Store! Microsoft 
+            Mahjong is the classic matching game updated with 
+            beautiful imagery, intuitive controls, and all the features 
+            that fans of mahjong have come to expect.
+        </description>
+        <features>
+            <feature>Many unique puzzles</feature>
+            <feature>Medals</feature>
+            <feature>Multiple themes</feature>
+            <feature>Daily Challenges!</feature>
+        </features>
+        <install>https://microsoftwarestudios.github.io/winstore/install/msmahjong.ps1</install>
+        <publisher>Microsoft Studios</publisher>
+    </app>
+    <app>
+        <name>AccuWeather for Windows 8</name>
+        <category>News and Weather</category>
+        <icon>https://microsoftwarestudios.github.io/winstore/appRes/accuweather/StoreLogo.png</icon>
+        <publisher>AccuWeather.com, migbrunluz (Miguel)</publisher>
+        <description>
+            <![CDATA[
+            Every day, more than one billion people around the world rely on the Superior Accuracy of AccuWeather to help them plan their lives, protect their businesses, and get more from their day. AccuWeather for Windows 8 has the very latest in weather news and information, including MinuteCast, the leading minute-by-minute weather forecast that is hyper-localized to your exact street address. This award winning app is available in 27 languages. We designed it with you in mind because so many decisions are made based on the weather. You get a quick look at current weather conditions for the next five days with an easy swipe to a calendar view of the forecasted conditions for each of the next 25 days.
+            You also get
+            - Severe weather notices to keep you ahead of the storm.
+            - A Windows app designed using Microsoft Windows 8.1 Interface with fluid screen resizing to the snap view, and large,
+            ]]>
+        </description>
+        <features>
+            <feature>AccuWeather MinuteCast - minute-by-minute precipitation forecasts for the next two hours hyper-localized to your exact street address. Available for a growing list of global locations.</feature>
+        </features>
+        <install>https://microsoftwarestudios.github.io/winstore/install/accuweather.ps1</install>
+    </app>
+    <app>
+        <name>Xbox One SmartGlass</name>
+        <category>Entertainment</category>
+        <icon>https://microsoftwarestudios.github.io/winstore/appRes/xboxcompanion/StoreLogo.png</icon>
+        <publisher>Microsoft Corporation</publisher>
+        <description>Xbox One SmartGlass is the perfect companion app for your Xbox One, both in your living room and on the go. Connect and control your Xbox One. Stay connected with the games and gamers you like. And add a new dimension to your console entertainment with the mobile device you already own.</description>
+        <install>https://microsoftwarestudios.github.io/winstore/install/xboxcompanion.ps1</install>
+        <features>
+            <feature>Navigate your Xbox One console using your device keyboard and touch</feature>
+            <feature>Control your media and set top box with the SmartGlass remote control</feature>
+            <feature>Browse the web on your TV using your mobile device</feature>
+            <feature>Enhance what you are watching or playing with SmartGlass companions</feature>
+            <feature>Increase performance with faster connections and reliability</feature>
+            <feature>Search/browse and pin content to play on your Xbox One console</feature>
+            <feature>Track achievements and get game help while messaging friends and watching game DVR clips</feature>
+            <feature>Change TV channels on your Xbox One through OneGuide on SmartGlass</feature>
+            <feature>Purchase Xbox One games and add-ons</feature>
+            <feature>Browse for recent/popular games and add-ons</feature>
+        </features>
+    </app>
+    <app>
+        <name>Adobe Reader Touch</name>
+        <category>Productivity</category>
+        <publisher>Adobe Systems Inc.</publisher>
+        <icon>https://microsoftwarestudios.github.io/winstore/appRes/adobe-reader/StoreLogo.png</icon>
+        <description>Adobe Reader is the free, trusted leader for reliably viewing and interacting with PDF documents across platforms and devices. Adobe Reader Touch has been specially designed for the new Windows 8 Touch user interface to give you a great experience working with PDF documents on your Windows 8 Tablet. Adobe Reader Touch works with a keyboard and mouse, but desktop users with keyboard and mouse may prefer to install and use Adobe Reader XI.</description>
+        <install>https://microsoftwarestudios.github.io/winstore/install/adobe-reader.ps1</install>
+        <features>
+            <feature>Quickly open PDF documents from email/web, or anywhere on your device</feature>
+            <feature>Easily find your most recently read documents</feature>
+            <feature>View password-protected PDFs, annotations, and drawing markups</feature>
+            <feature>View and Add Notes to your document</feature>
+            <feature>Highlight/Strikeout/Underline text</feature>
+            <feature>Search text to find specific information</feature>
+            <feature>Select single page or continuous scroll modes</feature>
+            <feature>Easily zoom in on text or images for a closer view</feature>
+            <feature>Go to any page quickly by tapping on the Page Number indicator</feature>
+            <feature>Use bookmarks to jump directly to a section in your PDF document</feature>
+            <feature>Quickly navigate through large documents using the Semantic Zoom thumbnail view</feature>
+            <feature>Tap on links in a PDF to open linked web pages</feature>
+            <feature>Share PDFs with other applications using Share</feature>
+            <feature>Email PDFs as attachments</feature>
+            <feature>Print your PDFs from within Reader</feature>
+            <feature>Fill and Save PDF forms</feature>
+        </features>
+    </app>
+    <app>
+        <name>Microsoft "Project Siena"</name>
+        <category>Productivity</category>
+        <publisher>Microsoft Corporation</publisher>
+        <icon>https://microsoftwarestudios.github.io/winstore/appRes/siena/StoreLogo.png</icon>
+        <description>Microsoft Project Siena is a breakthrough technology that enables your business experts, analysts and imagineers to create transformative business apps. With Siena, they can now build custom apps with rich visuals, filled with custom intelligence and functionality, with no programming required. Place some visuals on a canvas, hook them up to your data, then customize how your app looks and works. No programming required. Here are some examples of the kinds of apps people have been building - Apps for consuming information, for example, product catalogs, video-based lesson plans, Apps for on-the-spot decisions, for example, adjusting insurance claims, accessorizing outfits Apps for tasks that involve capturing pictures, audio, handwriting and other real world input. You can use your Siena app immediately or publish to share with your colleagues and customers.</description>
+        <features>
+            <feature>Conceptualize validate and build your app ideas as easily as editing a document</feature>
+            <feature>Connect to corporate data and web services</feature>
+            <feature>Compose rich interactive visuals and media to create custom and unique apps</feature>
+            <feature>Add business logic and intelligence using the power of Excel-like expressions</feature>
+            <feature>Use the app yourself or share with colleagues or with the world</feature>
+        </features>
+    </app>
+    <app>
+        <name>Microsoft Wordament</name>
+        <category>Games</category>
+        <publisher>Microsoft Studios</publisher>
+    </app>
+    <app>
+        <name>Microsoft Minesweeper</name>
+        <category>Games</category>
+        <icon>https://microsoftwarestudios.github.io/winstore/appRes/minesweeper/StoreLogo.png</icon>
+        <publisher>Microsoft Studios</publisher>
+        <description>
+            Top 5 Free Game in the Windows Store! Play the classic 
+            puzzle game that has been a part of Windows for more 
+            than 20 years, now re-imagined for Windows 8. Featuring 
+            adjustable difficulty, classic Minesweeper gameplay, and a 
+            brand new Adventure gameplay mode, Microsoft 
+            Minesweeper is better than ever. Play Daily Challenges, 
+            earn medals, and take your game online with Xbox 
+            achievements and leaderboards. 
+        </description>
+    </app>
+    <app>
+        <name>Wikipedia</name>
+        <category>Books and Reference</category>
+        <icon>https://microsoftwarestudios.github.io/winstore/appRes/wikipedia/Store.png</icon>
+        <description>
+            Browse, read, and edit Wikipedia articles with the official Wikipedia
+            app from the Wikimedia Foundation.
+        </description>
+        <features>
+            <feature>Article Editor</feature>
+            <feature>Search Wikipedia</feature>
+            <feature>View articles</feature>
+            <feature>Read the Article of the Day</feature>
+        </features>
+        <install>https://microsoftwarestudios.github.io/winstore/install/wikipedia.ps1</install>
+        <publisher>Wikimedia Foundation</publisher>
+    </app>
+    <app>
+        <name>Google Chrome</name>
+        <category>Tools</category>
+        <publisher>Google Inc.</publisher>
+        <description>
+            Chrome is a fast, simple, and secure web browser, built for the modern web. Download Chrome and sign in to bring your bookmarks.
+        </description>
+        <features>
+            <feature>Speed - Browser the web fast. Chrome loads web sites and runs application with lightning speed...</feature>
+        </features>
+        <icon>https://microsoftwarestudios.github.io/winstore/appRes/chrome/StoreLogo.png</icon>
+        <install>https://google.com/chrome</install>
+    </app>
+    <app>
+        <name>Cold Alley</name>
+        <category>Games</category>
+        <icon>https://microsoftwarestudios.github.io/winstore/appRes/cold-alley/StoreLogo.png</icon>
+        <description>THE NEXT GENERATION OF AIR COMBAT GAMING IS HERE! With an extensive single player campaign and a huge set of skirmish modes, the non-stop action will keep you on the edge of your seat! Master over a dozen models of aircraft as you take part in the race for jet fighter domination. CONSOLE QUALITY GAMING! Unparalleled visuals, audio, and special effects including bump mapping, realistic atmospheric effects, volumetric clouds, sun glare, day and night transitions and more! EXPANDED SINGLE-PLAYER MODES! After the campaign, hone your skills with Dogfight Missions, Survival, Free for All, Team Deathmatch, Capture the Flag, and Defend the Base, with new game modes to come in future updates! IMMERSIVE GAMEPLAY! Take off and land on landing strips and aircraft carriers, soar through fully recreated cities with realistic weather, and contend with accurate atmospheric effects with aerial perspective, all from the interactive cockpits of a variety of highly detailed jet aircraft. CUSTOMIZE YOUR GAME AND ELEVATE YOUR SKILLS! Cold Alley is designed for players of all generations and skill levels, whether veteran or novice. Take full control, or leave the flying to the auto-pilot while you fire missiles and issue squadron commands!</description>
+        <install>https://microsoftwarestudios.github.io/winstore/install/cold-alley.ps1</install>
+        <publisher>Microsoft Studios</publisher>
+        <features>
+            <feature>Story driven campaign</feature>
+            <feature>Multiple game modes</feature>
+            <feature>Amazing 3D graphics</feature>
+            <feature>Great collection of planes</feature>
+            <feature>High detailed maps</feature>
+            <feature>Varied gameplay mechanics</feature>
+            <feature>Arcade and simulation controls</feature>
+            <feature>Realistic sound and graphical effects</feature>
+        </features>
+    </app>  
+    <app>
+        <name>Survivalcraft</name>
+        <category>Games</category>
+        <icon>https://microsoftwarestudios.github.io/winstore/appRes/survivalcraft/StoreLogo.png</icon>
+        <description>
+            You are marooned on the shores of an infinite blocky world. Explore, mine resources, craft tools and weapons, make traps and grow plants. Tailor clothes and hunt animals for food and resources. Build a shelter to survive cold nights and share your worlds online. Ride horses, camels or donkeys and herd cattle to protect them from predators. Blast your way through the rock with explosives. Build complex electric devices. Possibilities are infinite in this long-running sandbox survival and construction game series.
+        </description>
+        <publisher>Candy Rufus Games</publisher>
+        <features>
+            <feature>Demo version of the game</feature>
+            <feature>Massive destructible block world</feature>
+            <feature>Crafting and smelting</feature>
+            <feature>Unique terrain generation</feature>
+            <feature>Lots to explore!</feature>
+        </features>
+        <install>https://microsoftwarestudios.github.io/winstore/install/survivalcraft.ps1</install>
+    </app>  
+    <app>
+        <name>Cut The Rope</name>
+        <category>Games</category>
+        <icon>https://microsoftwarestudios.github.io/winstore/appRes/cut-the-rope/StoreLogo.png</icon>
+        <description>Cut the rope to feed candy to little monster Om Nom! 250 million downloads around the world of this phenomenal puzzle game. Try this TRIAL version for FREE. All 275 game levels are available for playing in the Full Game (purchase is required). A mysterious package has arrived, and the little monster inside has only one request... CANDY! Collect gold stars, discover hidden prizes and unlock exciting new levels in this addictively fun, award-winning, physics-based game! Game awards - Apple Design Award - BAFTA Award - Pocket Gamer Award - GDC Award - Best App Ever Award Please note that this free version is a TRIAL version. "Unlock all boxes" in-app purchase unlocks all game content.</description>
+        <install>https://microsoftwarestudios.github.io/winstore/install/cut-the-rope.ps1</install>
+        <publisher>ZeptoLab UK Ltd., migbrunluz (Miguel)</publisher>
+        <features>
+            <feature>11 boxes with 275 levels (in the FULL version)</feature>
+            <feature>Innovative physics gameplay</feature>
+            <feature>Adorable character</feature>
+            <feature>Outstanding graphics</feature>
+            <feature>Constant free updates with new levels</feature>
+        </features>
+    </app>  
+    <app>
+        <name>The ESPN App</name>
+        <category>Sports</category>
+        <icon>https://microsoftwarestudios.github.io/winstore/appRes/espn/StoreLogo.png</icon>
+        <description>The ESPN app for Windows 8, offered on desktop and tablet, provides sports fans with all the things they love about ESPN in a single place. Get up-to-the-minute scores, news, and analysis for all your favorite teams, leagues, and players. Access rich, in depth content from the leader in sports. Download the ESPN app for Windows 8 for a deeper sports experience than ever before! For a limited time, ESPN Insider content is available for a free in the ESPN App for Windows!</description>
+        <install>https://microsoftwarestudios.github.io/winstore/install/espn.ps1</install>
+        <publisher>ESPN Inc., migbrunluz (Miguel)</publisher>
+        <features>
+            <feature>Access a completely personalized experience that syncs with your myESPN account</feature>
+            <feature>Follow breaking news and get real time scoring alerts and updates through live tiles and deep pinning.</feature>
+            <feature>Get expanded game views that provide in-depth game coverage.</feature>
+            <feature>Listen to your favorite ESPN podcasts including Mike and Mike PTI with Michael Wilbon and Tony Kornheiser and The BS Report with Bill Simmons.</feature>
+            <feature>Stay informed with comprehensive editorial content from ESPN The Magazine.</feature>
+            <feature>Share your favorite news and video highlights with your friends!</feature>
+        </features>
+    </app>  
+    <app>
+        <name>OneNote</name>
+        <category>Productivity</category>
+        <icon>https://microsoftwarestudios.github.io/winstore/appRes/onenote/StoreLogo.png</icon>
+        <description>OneNote is your digital notebook for capturing and organizing everything across your devices. Jot down your ideas, keep track of classroom and meeting notes, clip from the web, or make a to-do list, as well as draw and sketch your ideas. TYPE, WRITE, AND DRAW. Write anywhere on the page and unleash your imagination. Use your device pen or your finger to write and draw with multiple types of pens and highlighters. Take notes on a white background, or add a grid or ruled lines for easier drawing and writing CAPTURE ANYTHING. Quickly take a note by clicking the Note button in the Action Center and on supported pens*. Send websites, recipes, documents, and more to OneNote using the Share Charm, Microsoft Edge, Clipper, Office Lens, and dozens of other apps and services GET ORGANIZED. Search and find anything in your notes, including handwritten ink and the text in pictures. Quickly access your most recent notes, complete with visual previews of each page. One-click access to to-do lists with check boxes MADE FOR TEAMWORK. Easily share your notebooks and notes with colleagues, family, and friends. Plan vacations, share meeting minutes or lecture notes with people around you. Edit notes together and see changes in real time ALWAYS WITH YOU. Your notes travel with you whether you're at home, in the office, or on the go. Notes are automatically saved and synced in the cloud, so you always have the latest on all your devices. Your notebooks look familiar on all your devices, so you can pick up where you left off on your desktop, tablet, or mobile device.</description>
+        <install>https://microsoftwarestudios.github.io/winstore/install/onenote.ps1</install>
+        <publisher>Microsoft Corporation</publisher>
+        <features>
+            <feature>Draw and write --- Use your devices pen or your finger to add ink to your notes with multiple types of pens and highlighters</feature>
+            <feature>Quickly take a note --- Jump straight to a blank page by clicking the Note button in the Action Center and on supported pens</feature>
+            <feature>Work together --- Share your notebooks with colleagues family and friends and edit them together in real time</feature>
+            <feature>Share to OneNote --- Send websites, recipes, documents, and more to OneNote using the Share Charm Microsoft Edge Clipper Office Lens and dozens of other apps and services</feature>
+            <feature>Recent Notes --- Quickly access your most recent notes, complete with visual previews of each page</feature>
+            <feature>Make lists --- Quickly write to-do lists with check boxes</feature>
+            <feature>Search --- Search and find anything in your notes including handwritten ink and the text in pictures</feature>
+            <feature>Paper --- Take notes on a white background or add a grid or ruled lines for easier drawing and writing</feature>
+            <feature>Customize formatting --- Style your notes with tables/bullets/colors/ and more</feature>
+        </features>
+    </app>  
+    <app>
+        <name>Bing Wikipedia Browser</name>
+        <category>Books and Reference</category>
+        <icon>https://microsoftwarestudios.github.io/winstore/appRes/bingwikipedia/StoreLogo.png</icon>
+        <description>Bing Wikipedia Browser by Microsoft combines the content from Wikipedia - the free encyclopedia - with enhanced search, browse, and content recommendations based on the Bing Knowledge repository.</description>
+        <install>https://microsoftwarestudios.github.io/winstore/install/bingwikipedia.ps1</install>
+        <publisher>Microsoft Corporation, migbrunluz (Miguel)</publisher>
+        <features>
+            <feature>Search and browse articles with ease.</feature>
+            <feature>Explore related topics with the recommendation bar.</feature>
+            <feature>Flip through all images in an article in high resolution.</feature>
+            <feature>Share interesting topics with your friends.</feature>
+        </features>
+    </app>  
+    <app>
+        <name>TED Talks</name>
+        <category>Social</category>
+        <icon>https://microsoftwarestudios.github.io/winstore/appRes/tedtalks/StoreLogo.png</icon>
+        <description>This app brings the latest feeds, videos, and twits of TED Talks to you! Hope it is of use to you TED Talks lovers or anyone who is interested!</description>
+        <install>https://microsoftwarestudios.github.io/winstore/install/tedtalks.ps1</install>
+        <publisher>Calvin Apps, migbrunluz (Miguel)</publisher>
+        <features>
+            <feature>Latest news from TED Talks</feature>
+            <feature>Most Recent Uploaded Videos from TED Talks</feature>
+            <feature>Twits from TED Talks</feature>
+        </features>
+    </app>  
+    <app>
+        <name>Store</name>
+        <category>Games</category>
+        <icon>https://microsoftwarestudios.github.io/winstore/appRes/store/StoreLogo.png</icon>
+        <description>Coming Soon</description>
+        <install>https://microsoftwarestudios.github.io/winstore/install/store.ps1</install>
+        <publisher>Coming soon</publisher>
+        <features></features>
+    </app>  
+</store>
