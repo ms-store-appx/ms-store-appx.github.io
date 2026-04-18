@@ -28,17 +28,55 @@
            <a class="notLink" href="ms-store://"><i class="fa fa-search"></i></a>
         </div>
     </div>
-	<pre id="codeBox">&lt;iframe src="https://ms-store-appx.github.io/storefront/app-badge/winstore2014/ab2012ws980312bf.html" width="320" height="110" frameborder="0"&gt;&lt;/iframe&gt;</pre>
+	<style>
+.code-container {
+    position: relative;
+    background: #1e1e1e;
+    color: #dcdcdc;
+    padding: 12px;
+    border-radius: 6px;
+    font-family: Consolas, monospace;
+    width: 100%;
+    max-width: 900px;
+}
+.copy-btn {
+    position: absolute;
+    top: 8px;
+    right: 8px;
+    padding: 4px 10px;
+    font-size: 12px;
+    cursor: pointer;
+}
+</style>
 
-	<button onclick="copyCode()">Copy</button>
+<div class="code-container">
+    <button class="copy-btn" onclick="copyCode()">Copy</button>
+    <pre id="codeBox">&lt;iframe src="https://ms-store-appx.github.io/storebadge2012.html" width="980" height="312" frameborder="0"&gt;&lt;/iframe&gt;</pre>
+</div>
 
-	<script>
-		function copyCode() {
-    		var text = document.getElementById("codeBox").innerText;
-    		navigator.clipboard.writeText(text);
-    		alert("Copied!");
-		}
-	</script>
+<script>
+function copyCode() {
+    var range, selection;
+    var code = document.getElementById("codeBox");
+
+    if (document.body.createTextRange) {
+        range = document.body.createTextRange();
+        range.moveToElementText(code);
+        range.select();
+        document.execCommand("copy");
+        alert("Copied!");
+    } else {
+        selection = window.getSelection();
+        range = document.createRange();
+        range.selectNodeContents(code);
+        selection.removeAllRanges();
+        selection.addRange(range);
+        document.execCommand("copy");
+        alert("Copied!");
+    }
+}
+</script>
+
 
 </body>
 </html>
