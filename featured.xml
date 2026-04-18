@@ -12,4 +12,97 @@
     <image></image>
     <caption></caption>
   </collection>
+  <app>
+    <name>Important!</name>
+    <category>Developer Note</category>
+    <icon>https://ms-store-appx.github.io/appRes/store/StoreLogo.png</icon>
+    <description> Hello everyone! This is MicrosoftwareStudios on Github, or CSXTransportation, moderator of r-reviveWindows8, on Reddit. I just wanted to remind everyone that I am working on this store and it is nowhere near complete. I will continue to develop it, but I do have a personal life and I cannot devote much time to this project. I am hoping some interesting new changes will come out of this soon. Thanks for your patience and happy reviving! Note - WSRP update released 4-11-26! </description>
+    <features>
+      <feature>App lists!</feature>
+      <feature>Some working interfaces</feature>
+      <feature>Better Live Tiles!</feature>
+      <feature>Coming soon: APPXInstallerSVC</feature>
+      <feature>ReTiled Collab!</feature>
+      <feature>Coming soon: More Apps</feature>
+      <feature>Coming soon: Bugfixes!</feature>
+    </features>
+    <install>https://ms-store-appx.github.io/install/mssolitaire.ps1</install>
+    <publisher>MicrosoftwareStudios-CSXTransportation</publisher>
+  </app>
+  <app>
+        <name>AccuWeather for Windows 8</name>
+        <category>News and Weather</category>
+        <icon>https://ms-store-appx.github.io/appRes/accuweather/StoreLogo.png</icon>
+        <publisher>AccuWeather.com, migbrunluz (Miguel)</publisher>
+        <description>
+            <![CDATA[
+            Every day, more than one billion people around the world rely on the Superior Accuracy of AccuWeather to help them plan their lives, protect their businesses, and get more from their day. AccuWeather for Windows 8 has the very latest in weather news and information, including MinuteCast, the leading minute-by-minute weather forecast that is hyper-localized to your exact street address. This award winning app is available in 27 languages. We designed it with you in mind because so many decisions are made based on the weather. You get a quick look at current weather conditions for the next five days with an easy swipe to a calendar view of the forecasted conditions for each of the next 25 days.
+            You also get
+            - Severe weather notices to keep you ahead of the storm.
+            - A Windows app designed using Microsoft Windows 8.1 Interface with fluid screen resizing to the snap view, and large,
+            ]]>
+        </description>
+        <features>
+            <feature>AccuWeather MinuteCast - minute-by-minute precipitation forecasts for the next two hours hyper-localized to your exact street address. Available for a growing list of global locations.</feature>
+        </features>
+        <install>https://ms-store-appx.github.io/install/accuweather.ps1</install>
+    </app>
+  <app>
+        <name>Adobe Reader Touch</name>
+        <category>Productivity</category>
+        <publisher>Adobe Systems Inc.</publisher>
+        <icon>https://ms-store-appx.github.io/appRes/adobe-reader/StoreLogo.png</icon>
+        <description>Adobe Reader is the free, trusted leader for reliably viewing and interacting with PDF documents across platforms and devices. Adobe Reader Touch has been specially designed for the new Windows 8 Touch user interface to give you a great experience working with PDF documents on your Windows 8 Tablet. Adobe Reader Touch works with a keyboard and mouse, but desktop users with keyboard and mouse may prefer to install and use Adobe Reader XI.</description>
+        <install>https://ms-store-appx.github.io/install/adobe-reader.ps1</install>
+        <features>
+            <feature>Quickly open PDF documents from email/web, or anywhere on your device</feature>
+            <feature>Easily find your most recently read documents</feature>
+            <feature>View password-protected PDFs, annotations, and drawing markups</feature>
+            <feature>View and Add Notes to your document</feature>
+            <feature>Highlight/Strikeout/Underline text</feature>
+            <feature>Search text to find specific information</feature>
+            <feature>Select single page or continuous scroll modes</feature>
+            <feature>Easily zoom in on text or images for a closer view</feature>
+            <feature>Go to any page quickly by tapping on the Page Number indicator</feature>
+            <feature>Use bookmarks to jump directly to a section in your PDF document</feature>
+            <feature>Quickly navigate through large documents using the Semantic Zoom thumbnail view</feature>
+            <feature>Tap on links in a PDF to open linked web pages</feature>
+            <feature>Share PDFs with other applications using Share</feature>
+            <feature>Email PDFs as attachments</feature>
+            <feature>Print your PDFs from within Reader</feature>
+            <feature>Fill and Save PDF forms</feature>
+        </features>
+    </app>
+  <app>
+        <name>Google Chrome</name>
+        <category>Tools</category>
+        <publisher>Google Inc.</publisher>
+        <description>
+            Chrome is a fast, simple, and secure web browser, built for the modern web. Download Chrome and sign in to bring your bookmarks.
+        </description>
+        <features>
+            <feature>Speed - Browser the web fast. Chrome loads web sites and runs application with lightning speed...</feature>
+        </features>
+        <icon>https://ms-store-appx.github.io/appRes/chrome/StoreLogo.png</icon>
+        <install>https://google.com/chrome</install>
+    </app>
+  <app>
+        <name>OneNote</name>
+        <category>Productivity</category>
+        <icon>https://ms-store-appx.github.io/appRes/onenote/StoreLogo.png</icon>
+        <description>OneNote is your digital notebook for capturing and organizing everything across your devices. Jot down your ideas, keep track of classroom and meeting notes, clip from the web, or make a to-do list, as well as draw and sketch your ideas. TYPE, WRITE, AND DRAW. Write anywhere on the page and unleash your imagination. Use your device pen or your finger to write and draw with multiple types of pens and highlighters. Take notes on a white background, or add a grid or ruled lines for easier drawing and writing CAPTURE ANYTHING. Quickly take a note by clicking the Note button in the Action Center and on supported pens*. Send websites, recipes, documents, and more to OneNote using the Share Charm, Microsoft Edge, Clipper, Office Lens, and dozens of other apps and services GET ORGANIZED. Search and find anything in your notes, including handwritten ink and the text in pictures. Quickly access your most recent notes, complete with visual previews of each page. One-click access to to-do lists with check boxes MADE FOR TEAMWORK. Easily share your notebooks and notes with colleagues, family, and friends. Plan vacations, share meeting minutes or lecture notes with people around you. Edit notes together and see changes in real time ALWAYS WITH YOU. Your notes travel with you whether you're at home, in the office, or on the go. Notes are automatically saved and synced in the cloud, so you always have the latest on all your devices. Your notebooks look familiar on all your devices, so you can pick up where you left off on your desktop, tablet, or mobile device.</description>
+        <install>https://ms-store-appx.github.io/install/onenote.ps1</install>
+        <publisher>Microsoft Corporation</publisher>
+        <features>
+            <feature>Draw and write --- Use your devices pen or your finger to add ink to your notes with multiple types of pens and highlighters</feature>
+            <feature>Quickly take a note --- Jump straight to a blank page by clicking the Note button in the Action Center and on supported pens</feature>
+            <feature>Work together --- Share your notebooks with colleagues family and friends and edit them together in real time</feature>
+            <feature>Share to OneNote --- Send websites, recipes, documents, and more to OneNote using the Share Charm Microsoft Edge Clipper Office Lens and dozens of other apps and services</feature>
+            <feature>Recent Notes --- Quickly access your most recent notes, complete with visual previews of each page</feature>
+            <feature>Make lists --- Quickly write to-do lists with check boxes</feature>
+            <feature>Search --- Search and find anything in your notes including handwritten ink and the text in pictures</feature>
+            <feature>Paper --- Take notes on a white background or add a grid or ruled lines for easier drawing and writing</feature>
+            <feature>Customize formatting --- Style your notes with tables/bullets/colors/ and more</feature>
+        </features>
+    </app>  
 </featured>
