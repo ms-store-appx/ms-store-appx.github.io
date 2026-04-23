@@ -21,7 +21,7 @@
         </features>
         <install>https://ms-store-appx.github.io/install/mssolitaire.ps1</install>
         <publisher>MicrosoftwareStudios-CSXTransportation</publisher>
-        <rating>0</rating>
+        <rating>1</rating>
     </app>
     <app>
         <name>Microsoft Solitaire Collection</name>
@@ -213,6 +213,8 @@
             <feature>Arcade and simulation controls</feature>
             <feature>Realistic sound and graphical effects</feature>
         </features>
+        <price>6.99</price>
+        <rating>3</rating>
     </app>  
     <app>
         <name>Survivalcraft</name>
