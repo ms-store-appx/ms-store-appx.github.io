@@ -130,6 +130,7 @@
             <feature>Print your PDFs from within Reader</feature>
             <feature>Fill and Save PDF forms</feature>
         </features>
+        <price>19.99</price>
     </app>
     <app>
         <name>Microsoft "Project Siena"</name>
