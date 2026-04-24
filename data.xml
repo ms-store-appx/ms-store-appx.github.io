@@ -320,4 +320,14 @@
         <features></features>
         <rating>3</rating>
     </app>  
+    <app>
+        <name>Netflix</name>
+        <category>Entertainment</category>
+        <icon>https://ms-store-appx.github.io/appRes/netflix/StoreLogo.png</icon>
+        <description>Looking for the most talked about TV shows and movies from around the world? They are all on Netflix. We’ve got award-winning series, movies, documentaries, and stand-up specials. And with the mobile app, you get Netflix while you travel, commute, or just take a break. What you’ll love about Netflix: - We add TV shows and movies all the time. Browse new titles or search for your favorites, and stream videos right on your device. - The more you watch, the better Netflix gets at recommending TV shows and movies you’ll love. - Enjoy a safe watching experience just for kids with family-friendly entertainment. - Preview quick videos of our series and movies and get notifications for new episodes and releases. Netflix membership is a month-to-month paid subscription that begins at sign up. You can easily cancel anytime, online, 24 hours a day. There are no long-term contracts or cancellation fees. We just want you to love what you watch. By clicking INSTALL, you consent to the installation of the Netflix application and any updates or upgrades thereto.</description>
+        <install>https://ms-store-appx.github.io/install/netflix.ps1</install>
+        <publisher>Netflix Inc.</publisher>
+        <rating>1</rating>
+        <price>0</price>
+    </app>
 </store>
