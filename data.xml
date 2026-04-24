@@ -130,7 +130,6 @@
             <feature>Print your PDFs from within Reader</feature>
             <feature>Fill and Save PDF forms</feature>
         </features>
-        <price>19.99</price>
     </app>
     <app>
         <name>Microsoft "Project Siena"</name>
@@ -226,13 +225,15 @@
         </description>
         <publisher>Candy Rufus Games</publisher>
         <features>
-            <feature>Demo version of the game</feature>
+            <feature>Demo version of the game - Click Buy to install free trial, full version costs 3.99</feature>
             <feature>Massive destructible block world</feature>
             <feature>Crafting and smelting</feature>
             <feature>Unique terrain generation</feature>
             <feature>Lots to explore!</feature>
         </features>
         <install>https://ms-store-appx.github.io/install/survivalcraft.ps1</install>
+        <rating>2</rating>
+        <price>3.99</price>
     </app>  
     <app>
         <name>Cut The Rope</name>
@@ -307,14 +308,16 @@
             <feature>Most Recent Uploaded Videos from TED Talks</feature>
             <feature>Twits from TED Talks</feature>
         </features>
+        <rating>2</rating>
     </app>  
     <app>
-        <name>iHeartRadio</name>
+        <name>iHeart Radio</name>
         <category>Music and Video</category>
         <icon>https://ms-store-appx.github.io/appRes/iheartradio/StoreLogo.png</icon>
-        <description>iHeartRadio is the only music app that features thousands of the best Live Radio stations AND interruption-free Custom Stations you control. Choose your favorite song or artist and iHeartRadio does all the work to create your station from our library of 20 million songs and 800,000 artists. Or fine-tune your station with our thumbs feature. Easy to use, always free, and named by CNET as the best streaming radio app. Download iHeartRadio today.</description>
+        <description>iHeart Radio is the only music app that features thousands of the best Live Radio stations AND interruption-free Custom Stations you control. Choose your favorite song or artist and iHeartRadio does all the work to create your station from our library of 20 million songs and 800,000 artists. Or fine-tune your station with our thumbs feature. Easy to use, always free, and named by CNET as the best streaming radio app. Download iHeartRadio today.</description>
         <install>https://ms-store-appx.github.io/install/iheartradio.ps1</install>
         <publisher>ClearChannel Radio Digital, migbrunluz (Miguel)</publisher>
         <features></features>
+        <rating>3</rating>
     </app>  
 </store>
