@@ -29,6 +29,7 @@
     <install>https://ms-store-appx.github.io/install/mssolitaire.ps1</install>
     <publisher>MicrosoftwareStudios-CSXTransportation</publisher>
     <rating>1</rating>
+    <price>x</price>
   </app>
   <app>
         <name>AccuWeather for Windows 8</name>
