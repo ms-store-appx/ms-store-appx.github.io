@@ -47,12 +47,11 @@
         </features>
         <install>https://ms-store-appx.github.io/install/mssolitaire.ps1</install>
         <publisher>Microsoft Studios</publisher>
-        <appID></appID>
+        <appID>Microsoft.MicrosoftSolitaireCollection_2.1.1312.2401_x86__8wekyb3d8bbwe</appID>
     </app>
     <app>
         <name>Microsoft Mahjong</name>
         <category>Games</category>
-        <icon>https://ms-store-appx.github.io/appRes/mahjong/StoreLogo.png</icon>
         <description>
             Top 5 Free Game in the Windows Store! Microsoft 
             Mahjong is the classic matching game updated with 
@@ -65,9 +64,8 @@
             <feature>Multiple themes</feature>
             <feature>Daily Challenges!</feature>
         </features>
-        <install>https://ms-store-appx.github.io/install/msmahjong.ps1</install>
         <publisher>Microsoft Studios</publisher>
-        <appID></appID>
+        <appID>Microsoft.MicrosoftMahjong_2.0.0.31021_x86__8wekyb3d8bbwe</appID>
     </app>
     <app>
         <name>AccuWeather for Windows 8</name>
@@ -85,8 +83,7 @@
         <features>
             <feature>AccuWeather MinuteCast - minute-by-minute precipitation forecasts for the next two hours hyper-localized to your exact street address. Available for a growing list of global locations.</feature>
         </features>
-        <install>https://ms-store-appx.github.io/install/accuweather.ps1</install>
-        <appID></appID>
+        <appID>AccuWeather.AccuWeatherforWindows8_4.1.0.31_x86__8zz2pj9h1h1d8</appID>
     </app>
     <app>
         <name>Xbox One SmartGlass</name>
@@ -107,7 +104,7 @@
             <feature>Purchase Xbox One games and add-ons</feature>
             <feature>Browse for recent/popular games and add-ons</feature>
         </features>
-        <appID></appID>
+        <appID>Microsoft.XboxSmartGlass_1.4.3.0_x86__8wekyb3d8bbwe</appID>
     </app>
     <app>
         <name>Adobe Reader Touch</name>
@@ -134,7 +131,7 @@
             <feature>Print your PDFs from within Reader</feature>
             <feature>Fill and Save PDF forms</feature>
         </features>
-        <appID></appID>
+        <appID>AdobeSystemsIncorporated.AdobeReader_3.1.8.7675_x86__ynb6jyjzte8ga</appID>
     </app>
     <app>
         <name>Microsoft "Project Siena"</name>
@@ -155,7 +152,7 @@
         <name>Microsoft Wordament</name>
         <category>Games</category>
         <publisher>Microsoft Studios</publisher>
-        <appID></appID>
+        <appID>Microsoft.Studios.Wordament_3.2.8161.0_neutral___8wekyb3d8bbwe</appID>
     </app>
     <app>
         <name>Microsoft Minesweeper</name>
@@ -172,7 +169,7 @@
             earn medals, and take your game online with Xbox 
             achievements and leaderboards. 
         </description>
-        <appID></appID>
+        <appID>Microsoft.MicrosoftMinesweeper_2.9.1913.0_x86__8wekyb3d8bbwe </appID>
     </app>
     <app>
         <name>Wikipedia</name>
@@ -204,7 +201,7 @@
         </features>
         <icon>https://ms-store-appx.github.io/appRes/chrome/StoreLogo.png</icon>
         <install>https://google.com/chrome</install>
-        <appID></appID>
+        <appID>gChrome8.1pkg_81473</appID>
     </app>
     <app>
         <name>Cold Alley</name>
@@ -225,7 +222,7 @@
         </features>
         <price>6.99</price>
         <rating>3</rating>
-        <appID></appID>
+        <appID>Microsoft.ColdAlley_3.0.0.1_x86__8wekyb3d8bbwe</appID>
     </app>  
     <app>
         <name>Survivalcraft</name>
@@ -245,7 +242,7 @@
         <install>https://ms-store-appx.github.io/install/survivalcraft.ps1</install>
         <rating>2</rating>
         <price>3.99</price>
-        <appID></appID>
+        <appID>20961CandyRufusGames.Survivalcraft_1.29.47.0_neutral__c7jxg4av36ap6</appID>
     </app>  
     <app>
         <name>Cut The Rope</name>
@@ -261,7 +258,7 @@
             <feature>Outstanding graphics</feature>
             <feature>Constant free updates with new levels</feature>
         </features>
-        <appID></appID>
+        <appID>ZeptoLabUKLimited.CutTheRope_1.2.0.43_x86__sq9zxnwrk84pj</appID>
     </app>  
     <app>
         <name>The ESPN App</name>
@@ -278,7 +275,7 @@
             <feature>Stay informed with comprehensive editorial content from ESPN The Magazine.</feature>
             <feature>Share your favorite news and video highlights with your friends!</feature>
         </features>
-        <appID></appID>
+        <appID>ESPNInc.TheESPNApp_1.5.0.5_neutral__hpt16c9c0eesj</appID>
     </app>  
     <app>
         <name>OneNote</name>
@@ -310,7 +307,7 @@
             <feature>Flip through all images in an article in high resolution.</feature>
             <feature>Share interesting topics with your friends.</feature>
         </features>
-        <appID></appID>
+        <appID>Microsoft.BingWikipediaBrowser_1.0.0.108_x86__8wekyb3d8bbwe</appID>
     </app>  
     <app>
         <name>TED Talks</name>
@@ -325,7 +322,7 @@
             <feature>Twits from TED Talks</feature>
         </features>
         <rating>2</rating>
-        <appID></appID>
+        <appID>25132CalvinApps.TEDTalks_1.0.0.2_neutral__249jsrde0k9zj</appID>
     </app>  
     <app>
         <name>iHeart Radio</name>
@@ -336,7 +333,7 @@
         <publisher>ClearChannel Radio Digital, migbrunluz (Miguel)</publisher>
         <features></features>
         <rating>3</rating>
-        <appID></appID>
+        <appID>ClearChannelRadioDigital.iHeartRadio_4.3.0.16_neutral__a76a11dkgb644</appID>
     </app>  
     <app>
         <name>Netflix</name>
