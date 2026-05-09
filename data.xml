@@ -3,7 +3,6 @@
     <app>
         <name>Important!</name>
         <category>Developer Note</category>
-        <icon>https://ms-store-appx.github.io/appRes/store/StoreLogo.png</icon>
         <description>
             Hello everyone! This is MicrosoftwareStudios on Github, or CSXTransportation, moderator of r-reviveWindows8, on Reddit.
             I just wanted to remind everyone that I am working on this store and it is nowhere near complete. I will continue to develop it,
@@ -22,6 +21,7 @@
         <install>https://ms-store-appx.github.io/install/mssolitaire.ps1</install>
         <publisher>MicrosoftwareStudios-CSXTransportation</publisher>
         <rating>1</rating>
+        <price>x</price>
     </app>
     <app>
         <name>Microsoft Solitaire Collection</name>
