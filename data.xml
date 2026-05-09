@@ -47,6 +47,7 @@
         </features>
         <install>https://ms-store-appx.github.io/install/mssolitaire.ps1</install>
         <publisher>Microsoft Studios</publisher>
+        <appID></appID>
     </app>
     <app>
         <name>Microsoft Mahjong</name>
@@ -66,6 +67,7 @@
         </features>
         <install>https://ms-store-appx.github.io/install/msmahjong.ps1</install>
         <publisher>Microsoft Studios</publisher>
+        <appID></appID>
     </app>
     <app>
         <name>AccuWeather for Windows 8</name>
@@ -84,6 +86,7 @@
             <feature>AccuWeather MinuteCast - minute-by-minute precipitation forecasts for the next two hours hyper-localized to your exact street address. Available for a growing list of global locations.</feature>
         </features>
         <install>https://ms-store-appx.github.io/install/accuweather.ps1</install>
+        <appID></appID>
     </app>
     <app>
         <name>Xbox One SmartGlass</name>
@@ -104,6 +107,7 @@
             <feature>Purchase Xbox One games and add-ons</feature>
             <feature>Browse for recent/popular games and add-ons</feature>
         </features>
+        <appID></appID>
     </app>
     <app>
         <name>Adobe Reader Touch</name>
@@ -130,6 +134,7 @@
             <feature>Print your PDFs from within Reader</feature>
             <feature>Fill and Save PDF forms</feature>
         </features>
+        <appID></appID>
     </app>
     <app>
         <name>Microsoft "Project Siena"</name>
@@ -144,11 +149,13 @@
             <feature>Add business logic and intelligence using the power of Excel-like expressions</feature>
             <feature>Use the app yourself or share with colleagues or with the world</feature>
         </features>
+        <appID></appID>
     </app>
     <app>
         <name>Microsoft Wordament</name>
         <category>Games</category>
         <publisher>Microsoft Studios</publisher>
+        <appID></appID>
     </app>
     <app>
         <name>Microsoft Minesweeper</name>
@@ -165,6 +172,7 @@
             earn medals, and take your game online with Xbox 
             achievements and leaderboards. 
         </description>
+        <appID></appID>
     </app>
     <app>
         <name>Wikipedia</name>
@@ -182,6 +190,7 @@
         </features>
         <install>https://ms-store-appx.github.io/install/wikipedia.ps1</install>
         <publisher>Wikimedia Foundation</publisher>
+        <appID></appID>
     </app>
     <app>
         <name>Google Chrome</name>
@@ -195,6 +204,7 @@
         </features>
         <icon>https://ms-store-appx.github.io/appRes/chrome/StoreLogo.png</icon>
         <install>https://google.com/chrome</install>
+        <appID></appID>
     </app>
     <app>
         <name>Cold Alley</name>
@@ -215,6 +225,7 @@
         </features>
         <price>6.99</price>
         <rating>3</rating>
+        <appID></appID>
     </app>  
     <app>
         <name>Survivalcraft</name>
@@ -234,6 +245,7 @@
         <install>https://ms-store-appx.github.io/install/survivalcraft.ps1</install>
         <rating>2</rating>
         <price>3.99</price>
+        <appID></appID>
     </app>  
     <app>
         <name>Cut The Rope</name>
@@ -249,6 +261,7 @@
             <feature>Outstanding graphics</feature>
             <feature>Constant free updates with new levels</feature>
         </features>
+        <appID></appID>
     </app>  
     <app>
         <name>The ESPN App</name>
@@ -265,6 +278,7 @@
             <feature>Stay informed with comprehensive editorial content from ESPN The Magazine.</feature>
             <feature>Share your favorite news and video highlights with your friends!</feature>
         </features>
+        <appID></appID>
     </app>  
     <app>
         <name>OneNote</name>
@@ -281,6 +295,7 @@
             <feature>Search --- Search and find anything in your notes including handwritten ink and the text in pictures</feature>
             <feature>Paper --- Take notes on a white background or add a grid or ruled lines for easier drawing and writing</feature>
         </features>
+        <appID></appID>
     </app>  
     <app>
         <name>Bing Wikipedia Browser</name>
@@ -295,6 +310,7 @@
             <feature>Flip through all images in an article in high resolution.</feature>
             <feature>Share interesting topics with your friends.</feature>
         </features>
+        <appID></appID>
     </app>  
     <app>
         <name>TED Talks</name>
@@ -309,6 +325,7 @@
             <feature>Twits from TED Talks</feature>
         </features>
         <rating>2</rating>
+        <appID></appID>
     </app>  
     <app>
         <name>iHeart Radio</name>
@@ -319,6 +336,7 @@
         <publisher>ClearChannel Radio Digital, migbrunluz (Miguel)</publisher>
         <features></features>
         <rating>3</rating>
+        <appID></appID>
     </app>  
     <app>
         <name>Netflix</name>
@@ -329,5 +347,6 @@
         <publisher>Netflix Inc.</publisher>
         <rating>1</rating>
         <price>0</price>
+        <appID>4DF9E0F8.Netflix_2.22.0.39_x86__mcm4njqhnhss8</appID>
     </app>
 </store>
