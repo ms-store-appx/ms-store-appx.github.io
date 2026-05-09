@@ -229,7 +229,25 @@
         <rating>2</rating>
         <price>3.99</price>
         <appID>20961CandyRufusGames.Survivalcraft_1.29.47.0_neutral__c7jxg4av36ap6</appID>
-    </app>  
+    </app> 
+    <app>
+        <name>Remote Desktop</name>
+        <description>Connect to any remote PC with this tool.</description>
+        <category>Productivity</category>
+        <publisher>Microsoft Corporation</publisher>
+        <features>
+            <feature>Access remote PCs running Windows Professional or Enterprise and Windows Server</feature>
+            <feature>Access to remote resources from Azure Virtual Desktop ending in the future</feature>
+            <feature>Connect remotely through a Remote Desktop Gateway</feature>
+            <feature>Rich multi-touch experience supporting Windows gestures</feature>
+            <feature>Secure connection to your data and applications</feature>
+            <feature>Simple management of your connections from the Connection Center</feature>
+            <feature>High quality video and audio streaming</feature>
+        </features>
+        <rating>1</rating>
+        <price>0</price>
+        <appID>Microsoft.RemoteDesktop_6.2.9200.20523_neutral__8wekyb3d8bbwe</appID>
+    </app>
     <app>
         <name>Cut The Rope</name>
         <category>Games</category>
