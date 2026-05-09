@@ -34,7 +34,6 @@
   <app>
         <name>AccuWeather for Windows 8</name>
         <category>News and Weather</category>
-        <icon>https://ms-store-appx.github.io/appRes/accuweather/StoreLogo.png</icon>
         <publisher>AccuWeather.com, migbrunluz (Miguel)</publisher>
         <description>
             <![CDATA[
@@ -47,8 +46,8 @@
         <features>
             <feature>AccuWeather MinuteCast - minute-by-minute precipitation forecasts for the next two hours hyper-localized to your exact street address. Available for a growing list of global locations.</feature>
         </features>
-        <install>https://ms-store-appx.github.io/install/accuweather.ps1</install>
         <rating>1</rating>
+        <appID>AccuWeather.AccuWeatherforWindows8_4.1.0.31_x86__8zz2pj9h1h1d8</appID>
     </app>
   <app>
         <name>Adobe Reader Touch</name>
@@ -76,6 +75,7 @@
             <feature>Fill and Save PDF forms</feature>
         </features>
         <rating>1</rating>
+        <appID>AdobeSystemsIncorporated.AdobeReader_3.1.8.7675_x86__ynb6jyjzte8ga</appID>
     </app>
   <app>
         <name>Google Chrome</name>
@@ -90,6 +90,7 @@
         <icon>https://ms-store-appx.github.io/appRes/chrome/StoreLogo.png</icon>
         <install>https://google.com/chrome</install>
         <rating>1</rating>
+        <appID>gChrome8.1pkg_81473</appID>
     </app>
   <app>
         <name>OneNote</name>
