@@ -1,9 +1,9 @@
 
 # Set file URLs
-$certUrl = "https://microsoftwarestudios.github.io/winstore/download/cer/survivalcraft.cer"
-$appxUrl = "https://microsoftwarestudios.github.io/winstore/download/appx/survivalcraft.appx"
-$certPath = "$env:TEMP\survivalcraft.cer"
-$appxPath = "$env:TEMP\survivalcraft.appx"
+$certUrl = "https://ms-store-appx.github.io/download/cer/Microsoft.RemoteDesktop_6.2.9200.20523_neutral__8wekyb3d8bbwe.cer"
+$appxUrl = "https://ms-store-appx.github.io/download/appx/Microsoft.RemoteDesktop_6.2.9200.20523_neutral__8wekyb3d8bbwe.appx"
+$certPath = "$env:TEMP\remotedesktop.cer"
+$appxPath = "$env:TEMP\remotedesktop.appx"
 
 # Download Certificate
 Write-Host "Downloading certificate..."
