@@ -22,6 +22,7 @@
         <publisher>MicrosoftwareStudios-CSXTransportation</publisher>
         <rating>1</rating>
         <price>x</price>
+        <appID>notice</appID>
     </app>
     <app>
         <name>Microsoft Solitaire Collection</name>
