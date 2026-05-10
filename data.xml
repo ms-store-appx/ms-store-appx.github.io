@@ -127,6 +127,24 @@
         <appID>AdobeSystemsIncorporated.AdobeReader_3.1.8.7675_x86__ynb6jyjzte8ga</appID>
     </app>
     <app>
+        <name>Amazon</name>
+        <category>Shopping</category>
+        <publisher>Amazon.com</publisher>
+        <description>The Amazon app allows you to quickly make purchases, search, compare prices, read reviews, and share products with friends using a simple yet elegant interface. Shop just as you do on the web. You can access any of Amazon's sites around the world from a single app by simply selecting your desired Amazon country store or shipping destination. You have full access to your existing cart and wish lists. Search for products using the Amazon app, and easily add them to your shopping cart to purchase. (Note: the app uses the Amazon search engine, which is a non-Microsoft commerce engine.) All purchases made on Amazon are routed through our secure servers just as they are on the web.</description>
+        <features>
+            <feature>View popular products and recommendations</feature>
+            <feature>Quickly search for products</feature>
+            <feature>Read product descriptions and reviews</feature>
+            <feature>Add any product to your Shopping Cart and/or Wish List</feature>
+            <feature>Purchase products</feature>
+            <feature>Access any of Amazon's sites around the world</feature>
+            <feature>1 Click Ordering/Payment</feature>
+            <feature>Live Tile notifications</feature>
+        </features>
+        <rating>2</rating>
+        <appID>Amazon.com.Amazon_1.0.4.0_neutral__343d40qqvtj1t</appID>
+    </app>
+    <app>
         <name>Microsoft "Project Siena"</name>
         <category>Productivity</category>
         <publisher>Microsoft Corporation</publisher>
