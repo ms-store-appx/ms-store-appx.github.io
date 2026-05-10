@@ -1,13 +1,13 @@
 <tile>
   <visual version="2">
     <binding template="TileWide310x150PeekImage05">
-      <image id="1" src="https://microsoftwarestudios.github.io/winstore/appRes/onenote/livetile.png" />
-      <image id="2" src="https://microsoftwarestudios.github.io/winstore/appRes/onenote/StoreLogo.png" />
+      <image id="1" src="https://ms-store-appx.github.io/appRes/Microsoft.Office.OneNote_15.0.4505.1000_x86__8wekyb3d8bbwe/livetile.png" />
+      <image id="2" src="https://ms-store-appx.github.io/appRes/Microsoft.Office.OneNote_15.0.4505.1000_x86__8wekyb3d8bbwe/StoreLogo.png" />
       <text id="1">OneNote</text>
       <text id="2">Free</text>
     </binding>
     <binding template="TileWide310x150ImageAndText01">
-      <image id="1" src="https://microsoftwarestudios.github.io/winstore/appRes/chrome/livetile.png" />
+      <image id="1" src="https://ms-store-appx.github.io/appRes/gChrome8.1pkg81473/livetile.png" />
       <text id="1">Download Chrome</text>
     </binding>
     <binding template="TileSquare150x150Text02">
@@ -15,7 +15,7 @@
       <text id="2">Download free</text>
     </binding>
     <binding template="TileSquare310x310SmallImageAndText01">
-      <image id="1" src="https://microsoftwarestudios.github.io/winstore/appRes/onenote/StoreLogo.png" />
+      <image id="1" src="https://ms-store-appx.github.io/appRes/Microsoft.Office.OneNote_15.0.4505.1000_x86__8wekyb3d8bbwe/StoreLogo.png" />
       <text id="1">New to the Store</text>
       <text id="2">Take and share notes with OneNote.</text>
       <text id="3">Free</text>
@@ -28,7 +28,7 @@
       <text id="4">Free</text>
     </binding>
     <binding template="TileSquare310x310SmallImageAndText01">
-      <image id="1" src="https://microsoftwarestudios.github.io/winstore/appRes/solitaire/StoreLogo.png" />
+      <image id="1" src="https://ms-store-appx.github.io/appRes/Microsoft.MicrosoftSolitaireCollection_2.1.1312.2401_x86__8wekyb3d8bbwe/StoreLogo.png" />
       <text id="1">Microsoft Solitaire Collection</text>
       <text id="2">Play today</text>
       <text id="3"></text>
