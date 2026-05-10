@@ -18,7 +18,6 @@
             <feature>Coming soon: More Apps</feature>
             <feature>Coming soon: Bugfixes!</feature>
         </features>
-        <install>https://ms-store-appx.github.io/install/mssolitaire.ps1</install>
         <publisher>MicrosoftwareStudios-CSXTransportation</publisher>
         <rating>1</rating>
         <price>x</price>
