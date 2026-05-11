@@ -66,6 +66,12 @@
         <appID>Microsoft.MicrosoftMahjong_2.0.0.31021_x86__8wekyb3d8bbwe</appID>
     </app>
     <app>
+        <name>eBay</name>
+        <category>Shopping</category>
+        <publisher>eBay, Inc.</publisher>
+        <appID>eBayInc.eBay_1.1.1.53_neutral__1618n3s9xq8tw</appID>
+    </app>
+    <app>
         <name>AccuWeather for Windows 8</name>
         <category><![CDATA[News & Weather]]></category>
         <publisher>AccuWeather.com, migbrunluz (Miguel)</publisher>
