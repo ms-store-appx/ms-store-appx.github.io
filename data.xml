@@ -183,7 +183,7 @@
     </app>
     <app>
         <name>Wikipedia</name>
-        <category>Books and Reference</category>
+        <category><![CDATA[Books & Reference]]></category>
         <description>
             Browse, read, and edit Wikipedia articles with the official Wikipedia
             app from the Wikimedia Foundation.
@@ -311,7 +311,7 @@
     </app>  
     <app>
         <name>Bing Wikipedia Browser</name>
-        <category>Books and Reference</category>
+        <category><![CDATA[Books & Reference]]></category>
         <description>Bing Wikipedia Browser by Microsoft combines the content from Wikipedia - the free encyclopedia - with enhanced search, browse, and content recommendations based on the Bing Knowledge repository.</description>
         <publisher>Microsoft Corporation, migbrunluz (Miguel)</publisher>
         <features>
@@ -337,7 +337,7 @@
     </app>  
     <app>
         <name>iHeart Radio</name>
-        <category>Music and Video</category>
+        <category><![CDATA[Music & Video]]></category>
         <description>iHeart Radio is the only music app that features thousands of the best Live Radio stations AND interruption-free Custom Stations you control. Choose your favorite song or artist and iHeartRadio does all the work to create your station from our library of 20 million songs and 800,000 artists. Or fine-tune your station with our thumbs feature. Easy to use, always free, and named by CNET as the best streaming radio app. Download iHeartRadio today.</description>
         <publisher>ClearChannel Radio Digital, migbrunluz (Miguel)</publisher>
         <features></features>
