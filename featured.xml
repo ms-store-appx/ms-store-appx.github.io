@@ -5,10 +5,12 @@
     <caption>Cold Alley - Games</caption>
   </mainItem>
   <collection>
+    <id>casualgames</id>
     <image>https://ms-store-appx.github.io/collection/casualgames/tileArray-small.png</image>
     <caption>Casual Games</caption>
   </collection>
   <collection>
+    <id>office</id>
     <image>https://ms-store-appx.github.io/collection/office/tileArray-small.png</image>
     <caption>Office</caption>
   </collection>
