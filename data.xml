@@ -72,7 +72,7 @@
         <appID>eBayInc.eBay_1.1.1.53_neutral__1618n3s9xq8tw</appID>
     </app>
     <app>
-        <name>AccuWeather for Windows 8</name>
+        <name>AccuWeather</name>
         <category><![CDATA[News & Weather]]></category>
         <publisher>AccuWeather.com, migbrunluz (Miguel)</publisher>
         <description>
@@ -151,7 +151,7 @@
         <appID>Amazon.com.Amazon_1.0.4.0_neutral__343d40qqvtj1t</appID>
     </app>
     <app>
-        <name>Microsoft "Project Siena"</name>
+        <name>Microsoft Project Siena</name>
         <category>Productivity</category>
         <publisher>Microsoft Corporation</publisher>
         <description>Microsoft Project Siena is a breakthrough technology that enables your business experts, analysts and imagineers to create transformative business apps. With Siena, they can now build custom apps with rich visuals, filled with custom intelligence and functionality, with no programming required. Place some visuals on a canvas, hook them up to your data, then customize how your app looks and works. No programming required. Here are some examples of the kinds of apps people have been building - Apps for consuming information, for example, product catalogs, video-based lesson plans, Apps for on-the-spot decisions, for example, adjusting insurance claims, accessorizing outfits Apps for tasks that involve capturing pictures, audio, handwriting and other real world input. You can use your Siena app immediately or publish to share with your colleagues and customers.</description>
@@ -165,13 +165,13 @@
         <appID>Microsoft.MicrosoftProjectSiena_1.5.1411.0_x86__8wekyb3d8bbwe</appID>
     </app>
     <app>
-        <name>Microsoft Wordament</name>
+        <name>Wordament</name>
         <category>Games</category>
         <publisher>Microsoft Studios</publisher>
         <appID>Microsoft.Studios.Wordament_2.8.4.0_x86__8wekyb3d8bbwe</appID>
     </app>
     <app>
-        <name>Microsoft Minesweeper</name>
+        <name>Minesweeper</name>
         <category>Games</category>
         <icon>https://ms-store-appx.github.io/appRes/minesweeper/StoreLogo.png</icon>
         <publisher>Microsoft Studios</publisher>
@@ -316,7 +316,7 @@
         <appID>Microsoft.Office.OneNote_15.0.4505.1000_x86__8wekyb3d8bbwe</appID>
     </app>  
     <app>
-        <name>Bing Wikipedia Browser</name>
+        <name>Bing Wikipedia</name>
         <category><![CDATA[Books & Reference]]></category>
         <description>Bing Wikipedia Browser by Microsoft combines the content from Wikipedia - the free encyclopedia - with enhanced search, browse, and content recommendations based on the Bing Knowledge repository.</description>
         <publisher>Microsoft Corporation, migbrunluz (Miguel)</publisher>
