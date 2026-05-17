@@ -14,6 +14,12 @@
     <image>https://ms-store-appx.github.io/collection/office/tileArray-small.png</image>
     <caption>Office</caption>
   </collection>
+  <sel>
+    <appID>notice</appID>
+  </sel>
+  <sel>
+    <appID>Microsoft.Studios.Wordament_2.8.4.0_x86__8wekyb3d8bbwe</appID>
+  </sel>
   <app>
     <appID>notice</appID>
   </app>
