@@ -1,0 +1,64 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Firebase Login (IE Compatible)</title>
+
+    <!-- Firebase v8 (last version that supports IE) -->
+    <script src="https://www.gstatic.com/firebasejs/8.10.1/firebase-app.js"></script>
+    <script src="https://www.gstatic.com/firebasejs/8.10.1/firebase-auth.js"></script>
+
+    <script>
+        // Firebase config
+        var firebaseConfig = {
+            apiKey: "AIzaSyB-HcaLk_7baILVTztlP7TznAgunFQZ2jo",
+            authDomain: "wsrp-69b37.firebaseapp.com",
+            projectId: "wsrp-69b37",
+            storageBucket: "wsrp-69b37.firebasestorage.app",
+            messagingSenderId: "202033517304",
+            appId: "1:202033517304:web:759391e944c720ef0f610d"
+        };
+
+        // Initialize Firebase
+        firebase.initializeApp(firebaseConfig);
+
+        function login() {
+            var email = document.getElementById("email").value;
+            var password = document.getElementById("password").value;
+
+            firebase.auth().signInWithEmailAndPassword(email, password)
+                .then(function(userCredential) {
+                    alert("Logged in successfully!");
+                })
+                .catch(function(error) {
+                    alert("Error: " + error.message);
+                });
+        }
+
+        function signup() {
+            var email = document.getElementById("signup-email").value;
+            var password = document.getElementById("signup-password").value;
+
+            firebase.auth().createUserWithEmailAndPassword(email, password)
+                .then(function(userCredential) {
+                    alert("Signed up successfully!");
+                })
+                .catch(function(error) {
+                    alert("Error: " + error.message);
+                });
+        }
+    </script>
+</head>
+
+<body>
+    <h2>Login</h2>
+    <input type="email" id="email" placeholder="Email">
+    <input type="password" id="password" placeholder="Password">
+    <button onclick="login()">Login</button>
+
+    <h2>Sign Up</h2>
+    <input type="email" id="signup-email" placeholder="Email">
+    <input type="password" id="signup-password" placeholder="Password">
+    <button onclick="signup()">Sign Up</button>
+</body>
+</html>
