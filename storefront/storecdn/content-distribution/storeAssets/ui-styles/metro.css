@@ -1,0 +1,162 @@
+/* ================================
+   METRO BASE
+   ================================ */
+
+body {
+    margin: 0;
+    padding: 0;
+    background: #f2f2f2;
+    font-family: "Segoe UI", sans-serif;
+    color: #000;
+}
+
+/* Titles */
+.metro-title {
+    font-size: 42px;
+    font-weight: 300;
+    margin-bottom: 20px;
+}
+
+.metro-subtitle {
+    font-size: 28px;
+    font-weight: 300;
+    margin: 30px 0 15px 0;
+}
+
+/* Labels */
+label {
+    font-size: 16px;
+    margin-bottom: 6px;
+    display: block;
+}
+
+/* ================================
+   TEXTBOXES
+   ================================ */
+
+input[type="text"],
+input[type="email"],
+input[type="password"],
+input[type="number"],
+textarea {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #c8c8c8;
+    background: #ffffff;
+    font-size: 17px;
+    font-family: "Segoe UI";
+    margin-bottom: 16px;
+    outline: none;
+}
+
+input:focus,
+textarea:focus {
+    border-color: #008A00;
+}
+
+/* ================================
+   BUTTONS
+   ================================ */
+
+.metro-button {
+    width: 100%;
+    padding: 14px;
+    background: #008A00;
+    color: #ffffff;
+    border: none;
+    font-size: 20px;
+    cursor: pointer;
+    margin-top: 5px;
+}
+
+.metro-button:hover {
+    background: #007200;
+}
+
+/* Secondary button (gray) */
+.metro-button-secondary {
+    background: #e6e6e6;
+    color: #000;
+}
+
+.metro-button-secondary:hover {
+    background: #d0d0d0;
+}
+
+/* ================================
+   CHECKBOXES
+   ================================ */
+
+input[type="checkbox"] {
+    width: 18px;
+    height: 18px;
+    margin-right: 8px;
+    vertical-align: middle;
+}
+
+/* Metro-style label alignment */
+.metro-checkbox-label {
+    font-size: 17px;
+    vertical-align: middle;
+}
+
+/* ================================
+   RADIO BUTTONS
+   ================================ */
+
+input[type="radio"] {
+    width: 18px;
+    height: 18px;
+    margin-right: 8px;
+    vertical-align: middle;
+}
+
+.metro-radio-label {
+    font-size: 17px;
+    vertical-align: middle;
+}
+
+/* ================================
+   SELECT DROPDOWNS
+   ================================ */
+
+select {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #c8c8c8;
+    background: #ffffff;
+    font-size: 17px;
+    margin-bottom: 16px;
+    outline: none;
+}
+
+select:focus {
+    border-color: #008A00;
+}
+
+/* ================================
+   PANELS / LAYOUT
+   ================================ */
+
+.metro-panel {
+    background: #ffffff;
+    padding: 40px;
+    border-left: 1px solid #d0d0d0;
+}
+
+.metro-section {
+    margin-top: 40px;
+}
+
+/* ================================
+   LINKS
+   ================================ */
+
+a {
+    color: #008A00;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
