@@ -204,6 +204,18 @@
         <appID>WikimediaFoundation.Wikipedia_1.1.0.37_neutral__54ggd3ev8bvz6</appID>
     </app>
     <app>
+        <name><![CDATA[iFixit: Repair Manual]]></name>
+        <appID>iFixit.W81.UI_1.2.0.0_neutral</appID>
+        <category><![CDATA[Books & Reference]]></category>
+        <publisher>iFixit Inc.</publisher>
+        <features>
+            <feature>Visual step-by-step instructions using photos and videos.</feature>
+            <feature>Download your favorite repair manuals for later use offline.</feature>
+            <feature>Convenient links to purchase related parts and tools for most repairs.</feature>
+        </features>
+        <description><![CDATA[The most popular repair manual in the world! Thousands of free how-to guides make it easy to repair your stuff. Fix your own things with step-by-step repair instructions. ~ With step-by-step instructions, you can repair anything! Explore inside thousands of devices—before you take yours apart. Need more detail on a step? Zoom into high resolution images to see all the fine details! Completely free—no in-app purchases. ~ Parts Store: buy parts and tools right in the app! ● Included Devices ● Repair manuals show you how to fix: * Xbox repair * PC Laptop repair * PlayStation repair * Nikon, Canon & more digital camera repair * Hundreds of cell phone repair manuals * Harley Davidson Repair * Honda Accord Repair * More manuals added every week ● Praise from the Press ● "Empowers you to fix things yourself. From troubleshooting to parts and tools, to repair guides, they have your back." — TreeHugger "Demonstrates the old-fashioned virtue of repair and extending the lifespan of devices." — Reuters "The robots of the future will see this and murder us all. Thanks iFixit. Thanks a lot." — Engadget "Illustrated repair guides that take you step by step through the process." — Dallas Morning News ● Testimonials ● "You guys rule and have saved me many many times. Thank you!" – Ralph in North Carolina "I love your repair guides. You've saved me hundreds of dollars over the last few years." – David in Maryland "Great, clean and easy to navigate.' – Serge in New Brunswick "Shipping time was superb. I will come back to your store the next time I am looking for parts. THANK YOU VERY MUCH!" –Ramia in Nebraska "Quick and straightforward." – Owen in New York ● Support iFixit ● Help us keep these manuals free. We keep the lights on by selling parts and tools. If you use our manual to fix something, please support our work by buying the parts from us. We sell thousands of parts as well as electronics repair tools. This app is open source! You can improve or fork it here: github.com/iFixit/ifixit-microsoft]]></description>
+    </app>
+    <app>
         <name>Google Chrome</name>
         <category>Tools</category>
         <publisher>Google Inc.</publisher>
