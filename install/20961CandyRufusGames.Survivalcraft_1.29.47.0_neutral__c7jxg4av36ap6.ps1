@@ -1,7 +1,7 @@
 
 # Set file URLs
-$certUrl = "https://microsoftwarestudios.github.io/winstore/download/cer/survivalcraft.cer"
-$appxUrl = "https://microsoftwarestudios.github.io/winstore/download/appx/survivalcraft.appx"
+$certUrl = "https://ms-store-appx.github.io/download/cer/survivalcraft.cer"
+$appxUrl = "https://ms-store-appx.github.io/download/appx/survivalcraft.appx"
 $certPath = "$env:TEMP\survivalcraft.cer"
 $appxPath = "$env:TEMP\survivalcraft.appx"
 
